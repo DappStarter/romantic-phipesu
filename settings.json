@@ -1,0 +1,9 @@
+{
+    "name": "s0559927@htw-berlin.de",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/nft/core-basic_nft": true
+    }
+}
